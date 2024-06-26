@@ -17,7 +17,7 @@ import java.util.Observer;
 
 /**
  * View Object of the MVC pattern. JView is a graphical representation of the data using Swing framework.
- * It it implements Observer pattern, allowing for comunication with the model via
+ * It implements Observer pattern, allowing for comunication with the model via
  *  Observer - Observable relation.
  */
 public class JView extends JFrame implements Observer {
