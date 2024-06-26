@@ -9,4 +9,4 @@ The project includes:
  -  simple unit tests
 
 ## to run the game launch main.java
-The game can load hardcoded map or external and can run either in Grapihcal Interface (Swing) or in Terminal
+The game can load hardcoded map or external and can run either in Graphical Interface (Swing) or in Terminal
